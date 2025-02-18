@@ -5,10 +5,10 @@
 <br/> 
 
 # 🌫 About Me:
- 🌱 Keen to be a Web Developer<br> 🔭 Exploring React <br> ❓ Is it better than Android? I am finding out!  <br>⚡ Fun fact: Removing TLE takes more time than expected  <br>
+ 🌟 Striving for perfection, one line of code at a time.<br> 🔄 Exploring uncharted tech territories.<br> 🤖 Next mission: AI—teaching machines to think!<br> 🎉 Fun fact: Debugging is just detective work in a digital world.<br>
 <br/>  
 
-# 💻 Tech Stack:
+# Tech Stack:
 <br>
 <br>
 <div align="center">  
